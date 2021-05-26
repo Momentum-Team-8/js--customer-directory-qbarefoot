@@ -2,8 +2,8 @@ const customers = [
   {
     name: {
       title: 'dr',
-      first: 'sophia',
-      last: 'burns'
+      first: 'Sophia',
+      last: 'Burns'
     },
     location: {
       street: {
@@ -48,8 +48,8 @@ const customers = [
   {
     name: {
       title: 'mx',
-      first: 'krin',
-      last: 'oliver'
+      first: 'Krin',
+      last: 'Oliver'
     },
     location: {
       street: {
